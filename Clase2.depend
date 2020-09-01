@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598919845 source:c:\users\guido\documents\proyectos code blocks\laboratorio\clase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.c"
+
+1598920138 c:\users\guido\documents\proyectos code blocks\laboratorio\clase2\funciones.c
+
